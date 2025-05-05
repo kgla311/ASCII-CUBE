@@ -124,8 +124,6 @@ int main() {
         memset(buffer, backgroundASCIICode, width * height);
         memset(zBuffer, 0, width * height * sizeof(float));
 
-        
-
         sinA = sin(A), cosA = cos(A);
         sinB = sin(B), cosB = cos(B);
         sinC = sin(C), cosC = cos(C);
