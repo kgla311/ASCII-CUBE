@@ -1,6 +1,6 @@
 # ASCII-CUBE
 
-A non-fast, real-time, rotating ASCII cube rendered in your terminal using CPU-based lighting and projection in C++. Inspired by retro demos and raytracing concepts, this project simulates 3D perspective, rotation, and directional lighting in pure ASCII characters — all without external libraries. 
+A real-time, rotating ASCII cube rendered in your terminal using CPU-based lighting and projection in C++. Inspired by retro demos and raytracing concepts, this project simulates 3D perspective, rotation, and directional lighting in pure ASCII characters — all without external libraries. 
 
  #Features
  Real-time 3D ASCII cube rendering
